@@ -1,0 +1,73 @@
+[     909ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36 @ https://console.devant.dev/assets/index-EvsumQSg.js:57
+[    1175ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.matomo.cloud/wso20.matomo.cloud/matomo.js:0
+[    9395ms] [ERROR] Access to fetch at 'https://devant-cdn.wso2.com/20251114021829/node_modules/vsda/rust/web/vsda_bg.wasm' from origin 'https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev/?folder=%2Ftmp%2Fchouser%2Fproject:0
+[    9395ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://devant-cdn.wso2.com/20251114021829/node_modules/vsda/rust/web/vsda_bg.wasm:0
+[   10790ms] [ERROR] Failed to decrypt secrets from localStorage OperationError
+    at uDi.unseal (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3823:13687)
+    at async fDi.d (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3823:14717) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3822
+[   11406ms] [WARNING] The web worker extension host is started in a same-origin iframe! @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3556
+[   11653ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[   11663ms] [ERROR] Refused to display 'https://devant-cdn.wso2.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'. @ chrome-error://chromewebdata/:0
+[   15783ms] [ERROR] %c  ERR color: #f33 [Extension Host] (node:287) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   15783ms] [ERROR] %c[Extension Host] %c(node:287) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   16850ms] [ERROR] %c  ERR color: #f33 An unknown error occurred. Please consult the log for more details. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   17642ms] [ERROR] %c  ERR color: #f33 [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js: Error: [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js
+    at createScriptURL (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4489)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5608
+    at new Promise (<anonymous>)
+    at zMi.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5275)
+    at zMi.load (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4868)
+    at Jd (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:6430)
+    at wKe.S (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:5577)
+    at wKe.U (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:6032)
+    at zji.b (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:3961)
+    at get tokenizationSupport (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:73:90068) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   17722ms] [ERROR] Access to fetch at 'https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/onig.wasm' from origin 'https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev/?folder=%2Ftmp%2Fchouser%2Fproject:0
+[   17722ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/onig.wasm:0
+[   17841ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   17842ms] [WARNING] %c[Extension Host] %cstack trace: Error: Cannot call write after a stream was destroyed
+	at _write (node:internal/streams/writable:491:11)
+	at Writable.write (node:internal/streams/writable:510:10)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188205
+	at new Promise (<anonymous>)
+	at WritableStreamWrapper.write (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188117)
+	at StreamMessageWriter.doWrite (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605342)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605241
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:453:9) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   17843ms] [ERROR] [wso2.wso2-platform]Cannot call write after a stream was destroyed @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[   17843ms] [ERROR] Error: Cannot call write after a stream was destroyed
+	at _write (node:internal/streams/writable:491:11)
+	at Writable.write (node:internal/streams/writable:510:10)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188205
+	at new Promise (<anonymous>)
+	at WritableStreamWrapper.write (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188117)
+	at StreamMessageWriter.doWrite (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605342)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605241
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:453:9) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[   17844ms] [ERROR] %c  ERR color: #f33 An unknown error occurred. Please consult the log for more details. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   23952ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3596
+[   11653ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[   11663ms] [ERROR] Refused to display 'https://devant-cdn.wso2.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'. @ chrome-error://chromewebdata/:0
+[   24045ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[   24048ms] [ERROR] Refused to display 'https://devant-cdn.wso2.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'. @ chrome-error://chromewebdata/:0
+[   55512ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error: command 'getContext' not found color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   55512ms] [WARNING] %c[Extension Host] %cstack trace: Error: command 'getContext' not found
+    at fqe.n (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3892)
+    at fqe.executeCommand (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3824) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   55512ms] [ERROR] %c  ERR color: #f33 command 'getContext' not found @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   71409ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3556
+[  179485ms] [ERROR] %c  ERR color: #f33 [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/main.js: Error: [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/main.js
+    at createScriptURL (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4489)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5608
+    at new Promise (<anonymous>)
+    at zMi.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5275)
+    at zMi.load (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4868)
+    at Jd (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:6430)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:7262
+    at wKe.Y (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:7372)
+    at wKe.S (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:5622)
+    at wKe.U (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:6032) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
