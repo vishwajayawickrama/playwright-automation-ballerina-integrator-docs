@@ -268,3 +268,19 @@
     at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
     at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
     at qje.acceptChunk (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:8139) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  921897ms] [ERROR] %c  ERR color: #f33 Canceled: Canceled
+    at Object.call (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:549:1374)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:2145
+    at async qqe.xb (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1268:26489) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[ 1221907ms] [ERROR] %c  ERR color: #f33 Canceled: Canceled
+    at Object.call (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:549:1374)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:2145
+    at async qqe.xb (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1268:26489) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[ 1521916ms] [ERROR] %c  ERR color: #f33 Canceled: Canceled
+    at Object.call (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:549:1374)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:2145
+    at async qqe.xb (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1268:26489) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[ 1821927ms] [ERROR] %c  ERR color: #f33 Canceled: Canceled
+    at Object.call (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:549:1374)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:2145
+    at async qqe.xb (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1268:26489) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
