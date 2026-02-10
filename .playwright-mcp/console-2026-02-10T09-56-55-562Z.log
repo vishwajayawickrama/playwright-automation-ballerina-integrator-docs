@@ -1,0 +1,5 @@
+[    1964ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.matomo.cloud/wso20.matomo.cloud/matomo.js:0
+[    5127ms] [ERROR] Failed to get auth details for azure event Tt @ https://console.devant.dev/assets/index-EvsumQSg.js:57
+[   79630ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.matomo.cloud/wso20.matomo.cloud/matomo.js:0
+[   83278ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://apis.choreo.dev/orgs/1.0.0/orgs/orghqx5m:0
+[  115925ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://insights.hotjar.com') does not match the recipient window's origin ('https://console.devant.dev'). @ https://script.hotjar.com/modules.ddd41caee2adfc4aedb8.js:3

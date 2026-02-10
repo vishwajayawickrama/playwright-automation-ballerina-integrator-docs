@@ -1,0 +1,2 @@
+[    7728ms] [ERROR] Failed to get auth details for azure event Tt @ https://console.devant.dev/assets/index-EvsumQSg.js:57
+[   35821ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.matomo.cloud/wso20.matomo.cloud/matomo.js:0

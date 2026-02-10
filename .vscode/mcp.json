@@ -4,8 +4,9 @@
 			"command": "npx",
 			"args": [
 				"@playwright/mcp@0.0.64",
-				"--headless",
-				"--vision"
+				"--browser",
+        		"chromium",
+        		"--vision"
 			],
 			"env": {},
 			"type": "stdio"

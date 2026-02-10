@@ -1,0 +1,42 @@
+[      18ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.disconnectRemote) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[      21ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.chatSessionStore) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[      22ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.chatEditingSession) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[     136ms] [ERROR] %c  ERR color: #f33 Unable to write file 'vscode-log:/20260210T152903/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.): Error: Unable to write file 'vscode-log:/20260210T152903/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.)
+    at myt.writeFile (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3552:103441)
+    at async i0t.flush (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3555:86968) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[     136ms] [ERROR] %c  ERR color: #f33 Throttler is disposed: Error: Throttler is disposed
+    at pw.queue (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:30:72582)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:30:74145
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:30:73790 @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[     251ms] [ERROR] %c  ERR color: #f33 Unable to write file 'vscode-log:/20260210T152903/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.): Error: Unable to write file 'vscode-log:/20260210T152903/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.)
+    at myt.writeFile (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3552:103441)
+    at async i0t.flush (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3555:86968) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[    3797ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://devant-cdn.wso2.com/20251114021829/node_modules/vsda/rust/web/vsda_bg.wasm:0
+[    4830ms] [WARNING] The web worker extension host is started in a same-origin iframe! @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3556
+[    8745ms] [ERROR] %c  ERR color: #f33 [Extension Host] (node:3367) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[    8746ms] [ERROR] %c[Extension Host] %c(node:3367) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   10711ms] [ERROR] %c  ERR color: #f33 [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js: Error: [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js
+    at createScriptURL (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4489)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5608
+    at new Promise (<anonymous>)
+    at zMi.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5275)
+    at zMi.load (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4868)
+    at Jd (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:6430)
+    at wKe.S (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:5577)
+    at wKe.U (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:6032)
+    at zji.b (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:3961)
+    at get tokenizationSupport (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:73:90068) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   11453ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/onig.wasm:0
+[   18110ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3596
+[   19193ms] [WARNING] Removing unsupported meta http-equiv: X-UA-Compatible @ https://devant-cdn.wso2.com/20251114021829/out/vs/workbench/contrib/webview/browser/pre/index.html?id=6c1288d9-60a5-46fb-b03c-263769c74bb7&parentId=1&origin=d6ecf26e-8a22-4be8-be44-b513a3cc1a1e&swVersion=4&extensionId=wso2.ballerina&platform=browser&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=https%3A%2F%2F0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev&remoteAuthority=0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev:891
+[   19956ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error: command 'getContext' not found color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   19957ms] [WARNING] %c[Extension Host] %cstack trace: Error: command 'getContext' not found
+    at fqe.n (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3892)
+    at fqe.executeCommand (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3824) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   19958ms] [ERROR] %c  ERR color: #f33 command 'getContext' not found @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   20003ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/node_modules/%40wso2/font-wso2-vscode/dist/wso2-vscode.css:0
+[   20278ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/themes/ballerina-default.min.css:0
+[   22300ms] [WARNING] Received notification with unknown method: popupStateChanged @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/Visualizer.js:131
+[   22303ms] [WARNING] Received notification with unknown method: popupStateChanged @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/Visualizer.js:131

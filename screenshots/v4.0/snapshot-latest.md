@@ -1,0 +1,254 @@
+- application [ref=e17]:
+  - generic [ref=e21]:
+    - generic [ref=e23]:
+      - toolbar [ref=e32]:
+        - button "Go Back (Alt+LeftArrow)" [disabled] [ref=e33]: 
+        - button "Go Forward (Alt+RightArrow)" [disabled] [ref=e34]: 
+        - toolbar [ref=e37] [cursor=pointer]:
+          - button "project" [ref=e38]:
+            - generic [ref=e39]: 
+            - generic [ref=e40]: project
+      - toolbar "Title actions" [ref=e45]:
+        - button "Customize Layout..." [ref=e155] [cursor=pointer]: 
+        - checkbox "Toggle Primary Side Bar (Ctrl+B)" [checked] [ref=e156] [cursor=pointer]: 
+        - checkbox "Toggle Panel (Ctrl+J)" [ref=e157] [cursor=pointer]: 
+        - checkbox "Toggle Secondary Side Bar (Ctrl+Alt+B)" [ref=e158] [cursor=pointer]: 
+    - generic [ref=e54]:
+      - generic [ref=e56]:
+        - menubar [ref=e57]:
+          - menuitem "Application Menu" [ref=e58]:
+            - generic [ref=e59] [cursor=pointer]: 
+        - tablist "Active View Switcher" [ref=e62]:
+          - tab "Source Control (Ctrl+Shift+G)" [ref=e63] [cursor=pointer]:
+            - generic "Source Control (Ctrl+Shift+G)" [ref=e64]: 
+          - 'tab "WSO2 Integrator: BI" [expanded] [selected] [ref=e65] [cursor=pointer]':
+            - 'generic "WSO2 Integrator: BI" [ref=e66]'
+          - tab "Explorer (Ctrl+Shift+E)" [ref=e67] [cursor=pointer]:
+            - generic "Explorer (Ctrl+Shift+E)" [ref=e68]: 
+        - toolbar "Manage" [ref=e71]:
+          - button "Accounts" [ref=e72] [cursor=pointer]:
+            - generic "Accounts" [ref=e73]: 
+          - button "Manage" [ref=e74] [cursor=pointer]:
+            - generic "Manage" [ref=e75]: 
+      - generic [ref=e159]:
+        - generic [ref=e160]:
+          - 'heading "WSO2 Integrator: BI" [level=2] [ref=e162]'
+          - 'toolbar "WSO2 Integrator: BI actions" [ref=e166]':
+            - button "Add Project" [ref=e167] [cursor=pointer]: 
+            - button "Show Overview" [ref=e168] [cursor=pointer]: 
+          - generic:
+            - generic:
+              - generic:
+                - toolbar
+        - generic [ref=e177]:
+          - text:   
+          - tree [ref=e181]:
+            - generic [ref=e182]:
+              - treeitem "project" [expanded] [level=1] [ref=e183] [cursor=pointer]:
+                - generic [ref=e184]:
+                  - generic [ref=e185]: 
+                  - generic "project" [ref=e187]:
+                    - generic [ref=e188]: 
+                    - generic [ref=e191]: project
+                    - text:  
+              - treeitem "Entry Points" [expanded] [level=2] [ref=e192] [cursor=pointer]:
+                - generic [ref=e193]:
+                  - generic [ref=e194]: 
+                  - generic "Entry Points" [ref=e196]:
+                    - generic [ref=e200]: Entry Points
+                    - text: 
+              - treeitem "HTTP Service - /" [level=3] [ref=e201] [cursor=pointer]:
+                - generic "HTTP Service - /" [ref=e205]:
+                  - generic [ref=e209]: HTTP Service - /
+                  - text: 
+              - treeitem "Listeners" [expanded] [level=2] [ref=e210] [cursor=pointer]:
+                - generic [ref=e211]:
+                  - generic [ref=e212]: 
+                  - generic "Listeners" [ref=e214]:
+                    - generic [ref=e218]: Listeners
+              - treeitem "httpDefaultListener" [level=3] [ref=e219] [cursor=pointer]:
+                - generic "httpDefaultListener" [ref=e223]:
+                  - generic [ref=e227]: httpDefaultListener
+              - treeitem "Connections" [expanded] [level=2] [ref=e228] [cursor=pointer]:
+                - generic [ref=e229]:
+                  - generic [ref=e230]: 
+                  - generic "Connections" [ref=e232]:
+                    - generic [ref=e236]: Connections
+                    - text: 
+              - treeitem "Types" [expanded] [level=2] [ref=e237] [cursor=pointer]:
+                - generic [ref=e238]:
+                  - generic [ref=e239]: 
+                  - generic "Types" [ref=e241]:
+                    - generic [ref=e245]: Types
+                    - text:  
+              - treeitem "Functions" [expanded] [level=2] [ref=e246] [cursor=pointer]:
+                - generic [ref=e247]:
+                  - generic [ref=e248]: 
+                  - generic "Functions" [ref=e250]:
+                    - generic [ref=e254]: Functions
+                    - text: 
+              - treeitem "Data Mappers" [expanded] [level=2] [ref=e255] [cursor=pointer]:
+                - generic [ref=e256]:
+                  - generic [ref=e257]: 
+                  - generic "Data Mappers" [ref=e259]:
+                    - generic [ref=e263]: Data Mappers
+                    - text: 
+              - treeitem "Configurations" [level=2] [ref=e264] [cursor=pointer]:
+                - generic "Configurations" [ref=e268]:
+                  - generic [ref=e272]: Configurations
+                  - text:  
+      - main [ref=e83]:
+        - generic [ref=e274]:
+          - generic [ref=e276] [cursor=pointer]:
+            - tablist [ref=e277]:
+              - 'tab "WSO2 Integrator: BI" [selected] [ref=e278]':
+                - 'generic "WSO2 Integrator: BI" [ref=e279]':
+                  - generic [ref=e281]: "WSO2 Integrator: BI"
+                - toolbar "Tab actions" [ref=e284]:
+                  - button "Close (Ctrl+F4)" [ref=e285]: 
+            - toolbar "Editor actions" [ref=e289]:
+              - button "Save Changes in the cloud" [ref=e290]: 
+              - button "Open AI Panel" [ref=e291]
+              - button "Run Integration" [ref=e292]
+              - button "Debug Integration" [ref=e293]
+              - button "Split Editor Right (Ctrl+\\) [Alt] Split Editor Down" [ref=e294]: 
+              - generic "More Actions..." [ref=e297]: 
+          - text: 
+    - status [ref=e129]:
+      - generic [ref=e130]:
+        - generic "remote" [ref=e131]:
+          - button "remote" [ref=e132] [cursor=pointer]:
+            - generic [ref=e133]: 
+        - generic "No Problems" [ref=e134]:
+          - button "No Problems" [ref=e135] [cursor=pointer]:
+            - generic [ref=e136]: 
+            - text: "0"
+            - generic [ref=e137]: 
+            - text: "0"
+        - generic "No Ports Forwarded" [ref=e138]:
+          - button "No Ports Forwarded" [ref=e139] [cursor=pointer]:
+            - generic [ref=e140]: 
+            - text: "0"
+        - 'generic "Indexing: Loading packages from Ballerina home..." [ref=e147]':
+          - 'button "Indexing: Loading packages from Ballerina home..." [ref=e148] [cursor=pointer]':
+            - generic [ref=e149]: 
+            - text: "Indexing: Loading packages from Ballerina home..."
+      - generic [ref=e141]:
+        - generic "Notifications" [ref=e142]:
+          - button "Notifications" [ref=e143] [cursor=pointer]:
+            - generic [ref=e150]: 
+        - 'generic "Layout: US" [ref=e145]':
+          - 'button "Layout: US" [ref=e146] [cursor=pointer]'
+        - generic "Ballerina 2201.13.1 (Swan Lake Update 13)" [ref=e151]:
+          - button "Ballerina 2201.13.1 (Swan Lake Update 13)" [ref=e152] [cursor=pointer]
+        - 'generic "WSO2, Logged in as vishwajayawickrama2002@gmail.com. Directory associated with: - Organization: orghqx5m - Project: Default" [ref=e153]':
+          - 'button "WSO2, Logged in as vishwajayawickrama2002@gmail.com. Directory associated with: - Organization: orghqx5m - Project: Default" [ref=e154] [cursor=pointer]': WSO2
+  - generic:
+    - alert
+    - alert
+  - iframe [ref=e301]:
+    - document [active] [ref=f16e1]:
+      - iframe [ref=f16e2]:
+        - document [active] [ref=f17e1]:
+          - generic [ref=f17e5]:
+            - generic [ref=f17e6]:
+              - generic [ref=f17e7]:
+                - heading "Sample" [level=1] [ref=f17e8]
+                - heading "Integration" [level=2] [ref=f17e9]
+              - generic [ref=f17e10]:
+                - generic [ref=f17e11]:
+                  - generic "Icon Button" [ref=f17e13]:
+                    - button "Icon Button" [disabled] [ref=f17e14]:
+                      - generic [ref=f17e15]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: 
+                  - generic "Icon Button" [ref=f17e17]:
+                    - button "Icon Button" [disabled] [ref=f17e18]:
+                      - generic [ref=f17e19]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: 
+                - generic "Icon Button" [ref=f17e21] [cursor=pointer]:
+                  - button "Icon Button" [ref=f17e22]:
+                    - generic [ref=f17e23]:
+                      - generic:
+                        - generic [ref=f17e25]: 
+                        - text: Configure
+                - generic "Icon Button" [ref=f17e27] [cursor=pointer]:
+                  - button "Icon Button" [ref=f17e28]:
+                    - generic [ref=f17e29]:
+                      - generic:
+                        - generic [ref=f17e31]: 
+                        - text: Run
+                - generic "Icon Button" [ref=f17e33] [cursor=pointer]:
+                  - button "Icon Button" [ref=f17e34]:
+                    - generic [ref=f17e35]:
+                      - generic:
+                        - generic [ref=f17e37]: 
+                        - text: Debug
+            - generic [ref=f17e38]:
+              - generic [ref=f17e39]:
+                - generic [ref=f17e40]:
+                  - generic [ref=f17e41]:
+                    - heading "Design" [level=2] [ref=f17e42]
+                    - generic [ref=f17e43]:
+                      - generic "Icon Button" [ref=f17e45] [cursor=pointer]:
+                        - button "Icon Button" [ref=f17e46]:
+                          - generic [ref=f17e47]:
+                            - generic:
+                              - generic [ref=f17e49]: 
+                              - text: Generate
+                      - button " Add Artifact" [ref=f17e52] [cursor=pointer]:
+                        - generic [ref=f17e53]:
+                          - generic:
+                            - generic [ref=f17e55]: 
+                            - text: Add Artifact
+                  - generic [ref=f17e57]:
+                    - generic [ref=f17e58]:
+                      - generic [ref=f17e61] [cursor=pointer]: 
+                      - generic [ref=f17e62]:
+                        - generic [ref=f17e65] [cursor=pointer]: 
+                        - generic [ref=f17e68] [cursor=pointer]: 
+                    - generic [ref=f17e70]:
+                      - img
+                      - generic:
+                        - generic [ref=f17e77] [cursor=pointer]:
+                          - generic [ref=f17e80]: 
+                          - generic [ref=f17e81]:
+                            - generic [ref=f17e82]: /
+                            - generic [ref=f17e83]: http:Service
+                          - generic "Icon Button" [ref=f17e85]:
+                            - button "Icon Button" [ref=f17e86]:
+                              - img [ref=f17e88]
+                        - generic [ref=f17e92] [cursor=pointer]:
+                          - img [ref=f17e95]
+                          - generic "Icon Button" [ref=f17e98]:
+                            - button "Icon Button" [ref=f17e99]:
+                              - img [ref=f17e101]
+                          - generic [ref=f17e103]:
+                            - generic [ref=f17e104]: httpDefaultListener
+                            - generic [ref=f17e105]: http:Listener
+                - generic [ref=f17e106]:
+                  - generic [ref=f17e107]:
+                    - heading "README" [level=2] [ref=f17e108]
+                    - generic "Icon Button" [ref=f17e111] [cursor=pointer]:
+                      - button "Icon Button" [ref=f17e112]:
+                        - generic [ref=f17e113]:
+                          - generic:
+                            - generic [ref=f17e115]: 
+                            - text: Edit
+                  - generic [ref=f17e117]:
+                    - paragraph [ref=f17e118]: Describe your integration and generate your artifacts with AI
+                    - generic [ref=f17e121] [cursor=pointer]:
+                      - generic: Add a README
+              - generic [ref=f17e122]:
+                - heading "Deploy to Devant" [level=3] [ref=f17e123]
+                - paragraph [ref=f17e124]: Deploy your integration to Devant and run it in the cloud.
+                - button " Save and Deploy" [ref=f17e127] [cursor=pointer]:
+                  - generic [ref=f17e128]:
+                    - generic:
+                      - generic [ref=f17e130]: 
+                      - text: Save and Deploy
