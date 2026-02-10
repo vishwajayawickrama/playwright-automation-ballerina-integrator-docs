@@ -1,0 +1,160 @@
+[      13ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.disconnectRemote) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[      18ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.chatSessionStore) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[      18ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.chatEditingSession) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[     124ms] [ERROR] %c  ERR color: #f33 Unable to write file 'vscode-log:/20260210T205532/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.): Error: Unable to write file 'vscode-log:/20260210T205532/window.log' (Error: IndexedDB database 'vscode-web-db' is closed.)
+    at myt.writeFile (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3552:103441)
+    at async i0t.flush (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3555:86968) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[    4678ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://devant-cdn.wso2.com/20251114021829/node_modules/vsda/rust/web/vsda_bg.wasm:0
+[    5930ms] [WARNING] The web worker extension host is started in a same-origin iframe! @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3556
+[   10740ms] [ERROR] %c  ERR color: #f33 [Extension Host] (node:1573) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   10741ms] [ERROR] %c[Extension Host] %c(node:1573) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   12935ms] [ERROR] %c  ERR color: #f33 [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js: Error: [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js
+    at createScriptURL (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4489)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5608
+    at new Promise (<anonymous>)
+    at zMi.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5275)
+    at zMi.load (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4868)
+    at Jd (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:6430)
+    at wKe.S (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:5577)
+    at wKe.U (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:6032)
+    at zji.b (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:3961)
+    at get tokenizationSupport (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:73:90068) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   13745ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/onig.wasm:0
+[   20479ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3596
+[   21576ms] [WARNING] Removing unsupported meta http-equiv: X-UA-Compatible @ https://devant-cdn.wso2.com/20251114021829/out/vs/workbench/contrib/webview/browser/pre/index.html?id=7398781b-ee8c-45bc-bd12-23dafc8e86c7&parentId=1&origin=d6ecf26e-8a22-4be8-be44-b513a3cc1a1e&swVersion=4&extensionId=wso2.ballerina&platform=browser&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=https%3A%2F%2F0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev&remoteAuthority=0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev:891
+[   22306ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error: command 'getContext' not found color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   22307ms] [WARNING] %c[Extension Host] %cstack trace: Error: command 'getContext' not found
+    at fqe.n (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3892)
+    at fqe.executeCommand (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3824) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   22308ms] [ERROR] %c  ERR color: #f33 command 'getContext' not found @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   22391ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/node_modules/%40wso2/font-wso2-vscode/dist/wso2-vscode.css:0
+[   22648ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/themes/ballerina-default.min.css:0
+[   25492ms] [WARNING] Received notification with unknown method: popupStateChanged @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/Visualizer.js:131
+[   25492ms] [WARNING] Received notification with unknown method: popupStateChanged @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/Visualizer.js:131
+[  167012ms] [ERROR] %c  ERR color: #f33 [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/main.js: Error: [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/main.js
+    at createScriptURL (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4489)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5608
+    at new Promise (<anonymous>)
+    at zMi.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5275)
+    at zMi.load (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4868)
+    at Jd (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:6430)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:7262
+    at wKe.Y (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:7372)
+    at wKe.S (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:5622)
+    at wKe.U (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:6032) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  276354ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406729) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  277275ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406481) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  535009ms] [ERROR] %c  ERR color: #f33 [Extension Host] [Checking Ballerina processes] Error: Timed out waiting for Ballerina service(s) to start
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241768
+	at Generator.next (<anonymous>)
+	at a (/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241215) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  535010ms] [ERROR] %c[Extension Host] %c[Checking Ballerina processes] color: blue color:  Error: Timed out waiting for Ballerina service(s) to start
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241768
+	at Generator.next (<anonymous>)
+	at a (/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241215) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  572811ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406446) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  573613ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406384) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  591062ms] [WARNING] >> Start or end point not found for participant {id: 37267, name: get, kind: FUNCTION, moduleName: Sample, nodes: Array(1)} @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/Visualizer.js:13602
+[  591069ms] [WARNING] >> Start or end point not found for participant {id: 37267, name: get, kind: FUNCTION, moduleName: Sample, nodes: Array(1)} @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/Visualizer.js:13602
+[  724124ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406291) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  768822ms] [WARNING] %c WARN color: #993 Semantic token with invalid length detected at lineNumber 7, column 1 @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  769593ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406698) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  776132ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406636) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  782622ms] [WARNING] %c[Extension Host] %cEntryPoint artifact (id: -611406605) has unexpected type: undefined. Assuming SERVICE. color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  880300ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3596
+[   22391ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/node_modules/%40wso2/font-wso2-vscode/dist/wso2-vscode.css:0
+[   22648ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/themes/ballerina-default.min.css:0
+[  887263ms] [WARNING] You are loading @emotion/react when it is already loaded. Running multiple instances may cause problems. This can happen if multiple versions are used, or if multiple builds of the same version are used. @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:3175
+[  887599ms] [ERROR] Warning: ReactDOM.render is no longer supported in React 18. Use createRoot instead. Until you switch to the new API, your app will behave as if it's running React 17. Learn more: https://reactjs.org/link/switch-to-createroot @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:190738
+[  888378ms] [ERROR] Warning: Each child in a list should have a unique "key" prop.%s%s See https://reactjs.org/link/warning-keys for more information.%s 
+
+Check the render method of `Controller`.  
+    at Controller (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:224081:37)
+    at Dropdown (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:294764:13)
+    at div
+    at ComponentFormRepoInitSection (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:300791:41)
+    at div
+    at div
+    at div
+    at div
+    at div
+    at VerticalStepperItem (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:295778:32)
+    at div
+    at VerticalStepper (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:295774:13)
+    at div
+    at form
+    at div
+    at div
+    at ComponentFormView (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:299293:13)
+    at main
+    at AuthContextProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:296237:32)
+    at ExtWebviewContextProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:296297:38)
+    at div
+    at ErrorBoundaryC (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:294479:9)
+    at ErrorBoundary (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:294505:26)
+    at QueryClientProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:57643:3)
+    at PersistQueryClientProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:57508:3)
+    at ChoreoWebviewQueryClientProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:296440:45)
+    at ChoreoWebview (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:292748:181) @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:231804
+[  888893ms] [ERROR] {message: error while fetching authorized git repos: not found, data: Error: error while fetching authorized git repos: …ss.processImmediate (node:internal/timers:485:21)} @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:55456
+[  936430ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3596
+[   22391ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/node_modules/%40wso2/font-wso2-vscode/dist/wso2-vscode.css:0
+[   22648ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/resources/jslibs/themes/ballerina-default.min.css:0
+[  939523ms] [WARNING] You are loading @emotion/react when it is already loaded. Running multiple instances may cause problems. This can happen if multiple versions are used, or if multiple builds of the same version are used. @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:3175
+[  939746ms] [ERROR] Warning: ReactDOM.render is no longer supported in React 18. Use createRoot instead. Until you switch to the new API, your app will behave as if it's running React 17. Learn more: https://reactjs.org/link/switch-to-createroot @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:190738
+[  940041ms] [ERROR] Warning: Each child in a list should have a unique "key" prop.%s%s See https://reactjs.org/link/warning-keys for more information.%s 
+
+Check the render method of `Controller`.  
+    at Controller (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:224081:37)
+    at Dropdown (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:294764:13)
+    at div
+    at ComponentFormRepoInitSection (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:300791:41)
+    at div
+    at div
+    at div
+    at div
+    at div
+    at VerticalStepperItem (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:295778:32)
+    at div
+    at VerticalStepper (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:295774:13)
+    at div
+    at form
+    at div
+    at div
+    at ComponentFormView (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:299293:13)
+    at main
+    at AuthContextProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:296237:32)
+    at ExtWebviewContextProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:296297:38)
+    at div
+    at ErrorBoundaryC (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:294479:9)
+    at ErrorBoundary (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:294505:26)
+    at QueryClientProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:57643:3)
+    at PersistQueryClientProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:57508:3)
+    at ChoreoWebviewQueryClientProvider (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:296440:45)
+    at ChoreoWebview (https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:292748:181) @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:231804
+[  941009ms] [ERROR] {message: error while fetching authorized git repos: not found, data: Error: error while fetching authorized git repos: …ss.processImmediate (node:internal/timers:485:21)} @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:55456
+[  947594ms] [ERROR] {message: error while fetching authorized git repos: not found, data: Error: error while fetching authorized git repos: …ss.processImmediate (node:internal/timers:485:21)} @ https://vscode-remote+0c4da781-002de1fb-002d4e8a-002da9c4-002ded5cf49adb7f-002eeditor-002ee1-002dus-002deast-002dazure-002edevant-002edev.vscode-resource.vscode-cdn.net/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/resources/jslibs/main.js:55456
+[  952762ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error: Timed out waiting for Ballerina service(s) to start color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  952762ms] [WARNING] %c[Extension Host] %cstack trace: Error: Timed out waiting for Ballerina service(s) to start
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241768
+	at Generator.next (<anonymous>)
+	at a (/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241215) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[  952764ms] [ERROR] [wso2.ballerina]Timed out waiting for Ballerina service(s) to start @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[  952764ms] [ERROR] Error: Timed out waiting for Ballerina service(s) to start
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241768
+	at Generator.next (<anonymous>)
+	at a (/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241215) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[  952765ms] [ERROR] %c  ERR color: #f33 An unknown error occurred. Please consult the log for more details. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[ 1004981ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error: Timed out waiting for Ballerina service(s) to start color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[ 1004982ms] [WARNING] %c[Extension Host] %cstack trace: Error: Timed out waiting for Ballerina service(s) to start
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241768
+	at Generator.next (<anonymous>)
+	at a (/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241215) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[ 1004982ms] [ERROR] [wso2.ballerina]Timed out waiting for Ballerina service(s) to start @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[ 1004982ms] [ERROR] Error: Timed out waiting for Ballerina service(s) to start
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241768
+	at Generator.next (<anonymous>)
+	at a (/tmp/chouser/.vscode-server-devant/extensions/wso2.ballerina/dist/extension.js:2:3241215) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[ 1004983ms] [ERROR] %c  ERR color: #f33 An unknown error occurred. Please consult the log for more details. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
