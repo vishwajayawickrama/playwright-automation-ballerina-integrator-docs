@@ -215,3 +215,56 @@
     at fqe.executeCommand (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3824) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
 [   62692ms] [ERROR] %c  ERR color: #f33 command 'getContext' not found @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
 [   79437ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3556
+[  771252ms] [ERROR] %c  ERR color: #f33 CloseEvent @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  771257ms] [ERROR] %c  ERR color: #f33 CloseEvent @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  777487ms] [ERROR] %c  ERR color: #f33 CloseEvent @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  777488ms] [ERROR] %c  ERR color: #f33 [remote-connection][ExtensionHost][37ac5…][reconnect][WebSocket(0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev:443)] received error control message when negotiating connection. Error: @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  777488ms] [ERROR] %c  ERR color: #f33 Error: Connection error: Unknown reconnection token (never seen)
+    at Dki (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:40277)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:32416)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at lY.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:10352)
+    at Eps.A (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:13511)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:12878)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at qje.acceptChunk (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:8139) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  777489ms] [ERROR] %c  ERR color: #f33 [remote-connection][ExtensionHost][37ac5…][reconnect] A permanent error occurred in the reconnecting loop! Will give up now! Error: @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  777489ms] [ERROR] %c  ERR color: #f33 Error: Connection error: Unknown reconnection token (never seen)
+    at Dki (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:40277)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:32416)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at lY.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:10352)
+    at Eps.A (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:13511)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:12878)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at qje.acceptChunk (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:8139) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  777489ms] [ERROR] Extension host (Remote) terminated unexpectedly. Code: 0, Signal: 37ac5f43-2677-414f-a0a9-0323433d19b1 @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3563
+[  778281ms] [ERROR] %c  ERR color: #f33 CloseEvent @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  778281ms] [ERROR] %c  ERR color: #f33 [remote-connection][Management   ][bc216…][reconnect][WebSocket(0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev:443)] received error control message when negotiating connection. Error: @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  778281ms] [ERROR] %c  ERR color: #f33 Error: Connection error: Unknown reconnection token (never seen)
+    at Dki (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:40277)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:32416)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at lY.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:10352)
+    at Eps.A (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:13511)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:12878)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at qje.acceptChunk (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:8139) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  778281ms] [ERROR] %c  ERR color: #f33 [remote-connection][Management   ][bc216…][reconnect] A permanent error occurred in the reconnecting loop! Will give up now! Error: @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[  778282ms] [ERROR] %c  ERR color: #f33 Error: Connection error: Unknown reconnection token (never seen)
+    at Dki (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:40277)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:32416)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at lY.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:10352)
+    at Eps.A (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:13511)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:12878)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at qje.acceptChunk (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:550:8139) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
