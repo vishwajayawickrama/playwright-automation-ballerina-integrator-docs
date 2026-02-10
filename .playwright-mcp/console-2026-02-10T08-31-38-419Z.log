@@ -1,0 +1,217 @@
+[     861ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36 @ https://console.devant.dev/assets/index-EvsumQSg.js:57
+[    1191ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.matomo.cloud/wso20.matomo.cloud/matomo.js:0
+[    6499ms] [ERROR] Access to fetch at 'https://devant-cdn.wso2.com/20251114021829/node_modules/vsda/rust/web/vsda_bg.wasm' from origin 'https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev/?folder=%2Ftmp%2Fchouser%2Fproject:0
+[    6499ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://devant-cdn.wso2.com/20251114021829/node_modules/vsda/rust/web/vsda_bg.wasm:0
+[   16451ms] [ERROR] %c  ERR color: #f33 [remote-connection][Management   ][60957…][initial][WebSocket(0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev:443)] the handshake timed out. Error: @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   16451ms] [ERROR] %c  ERR color: #f33 Error: Time limit reached
+    at vDe.i (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:29097)
+    at vDe.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:29079)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:28934)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at soe.cancel (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:40687)
+    at lt.cancel (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:41101)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:28675)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   16452ms] [ERROR] %c  ERR color: #f33 [remote-connection][attempt 1] An error occurred in initial connection! Will retry... Error: @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   16453ms] [ERROR] %c  ERR color: #f33 Error: Time limit reached
+    at vDe.i (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:29097)
+    at vDe.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:29079)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:28934)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611)
+    at soe.cancel (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:40687)
+    at lt.cancel (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:41101)
+    at qre.value (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:2758:28675)
+    at x.C (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2392)
+    at x.fire (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:29:2611) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   19434ms] [WARNING] The web worker extension host is started in a same-origin iframe! @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3556
+[   19523ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[   19530ms] [ERROR] Refused to display 'https://devant-cdn.wso2.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'. @ chrome-error://chromewebdata/:0
+[   20881ms] [ERROR] %c  ERR color: #f33 [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js: Error: [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-textmate/release/main.js
+    at createScriptURL (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4489)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5608
+    at new Promise (<anonymous>)
+    at zMi.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5275)
+    at zMi.load (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4868)
+    at Jd (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:6430)
+    at wKe.S (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:5577)
+    at wKe.U (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:6032)
+    at zji.b (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:3961)
+    at get tokenizationSupport (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:73:90068) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   20973ms] [ERROR] Access to fetch at 'https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/onig.wasm' from origin 'https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://0c4da781-e1fb-4e8a-a9c4-ed5cf49adb7f.editor.e1-us-east-azure.devant.dev/?folder=%2Ftmp%2Fchouser%2Fproject:0
+[   20973ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/onig.wasm:0
+[   22644ms] [ERROR] %c  ERR color: #f33 navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:6355)
+    at Object.<anonymous> (/tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:20422)
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:39939
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:44273
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:63412
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:63998
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:68430
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:83347
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:146:84196
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:163:44570
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at Object.<anonymous> (/tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:315:14243)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at e._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:5728)
+    at t._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:206:22695)
+    at r._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:198:25788)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at RZ.Cb (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:237:1816)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   22644ms] [ERROR] %c  ERR color: #f33 navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:6355)
+    at Oke (/tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:184913)
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:184967
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:194257
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:194727
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:196773
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:153:13171
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:153:14563
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:279:8175
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at Object.<anonymous> (/tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:315:14243)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at e._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:5728)
+    at t._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:206:22695)
+    at r._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:198:25788)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at RZ.Cb (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:237:1816)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   22645ms] [ERROR] %c  ERR color: #f33 navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:6355)
+    at Oke (/tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:184913)
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:185018
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:194257
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:194727
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:147:196773
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:153:13171
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:153:14563
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:279:8175
+    at /tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:1:263
+    at Object.<anonymous> (/tmp/chouser/.vscode-server-devant/extensions/anweber.vscode-httpyac/dist/extension.js:315:14243)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at e._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:5728)
+    at t._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:206:22695)
+    at r._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:198:25788)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at RZ.Cb (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:237:1816)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   22646ms] [ERROR] %c  ERR color: #f33 navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:6355)
+    at 43306 (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:582119)
+    at a (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1073478)
+    at 38346 (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:3159)
+    at a (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1073478)
+    at 18286 (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:27881)
+    at a (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1073478)
+    at 61945 (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:26126)
+    at a (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1073478)
+    at 78580 (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:22259)
+    at a (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1073478)
+    at /tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1074045
+    at /tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1074637
+    at Object.<anonymous> (/tmp/chouser/.vscode-server-devant/extensions/redhat.vscode-yaml/dist/extension.js:2:1074658)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at e._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:388:5728)
+    at t._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:206:22695)
+    at r._load (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:198:25788)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at RZ.Cb (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:237:1816)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   22647ms] [ERROR] %c  ERR color: #f33 [Extension Host] (node:191) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   22647ms] [ERROR] %c[Extension Host] %c(node:191) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   23776ms] [ERROR] %c  ERR color: #f33 An unknown error occurred. Please consult the log for more details. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   24580ms] [ERROR] %c  ERR color: #f33 [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/main.js: Error: [trusted_script_src] Invalid script url: https://devant-cdn.wso2.com/20251114021829/node_modules/vscode-oniguruma/release/main.js
+    at createScriptURL (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4489)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5608
+    at new Promise (<anonymous>)
+    at zMi.h (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:5275)
+    at zMi.load (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:4868)
+    at Jd (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:535:6430)
+    at https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:7262
+    at wKe.Y (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:7372)
+    at wKe.S (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:5622)
+    at wKe.U (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1316:6032) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   24964ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   24964ms] [WARNING] %c[Extension Host] %cstack trace: Error: Cannot call write after a stream was destroyed
+	at _write (node:internal/streams/writable:491:11)
+	at Writable.write (node:internal/streams/writable:510:10)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188205
+	at new Promise (<anonymous>)
+	at WritableStreamWrapper.write (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188117)
+	at StreamMessageWriter.doWrite (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605342)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605241
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:453:9) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   24964ms] [ERROR] [wso2.wso2-platform]Cannot call write after a stream was destroyed @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[   24964ms] [ERROR] Error: Cannot call write after a stream was destroyed
+	at _write (node:internal/streams/writable:491:11)
+	at Writable.write (node:internal/streams/writable:510:10)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188205
+	at new Promise (<anonymous>)
+	at WritableStreamWrapper.write (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:188117)
+	at StreamMessageWriter.doWrite (/tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605342)
+	at /tmp/chouser/.vscode-server-devant/extensions/wso2.wso2-platform/dist/extension.js:2:605241
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:453:9) @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:546
+[   24964ms] [ERROR] %c  ERR color: #f33 An unknown error occurred. Please consult the log for more details. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   31118ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3596
+[   19523ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[   19530ms] [ERROR] Refused to display 'https://devant-cdn.wso2.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'. @ chrome-error://chromewebdata/:0
+[   31230ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[   31233ms] [ERROR] Refused to display 'https://devant-cdn.wso2.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'. @ chrome-error://chromewebdata/:0
+[   62692ms] [WARNING] %c[Extension Host] %crejected promise not handled within 1 second: Error: command 'getContext' not found color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   62692ms] [WARNING] %c[Extension Host] %cstack trace: Error: command 'getContext' not found
+    at fqe.n (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3892)
+    at fqe.executeCommand (https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:1251:3824) color: blue color:  @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:522
+[   62692ms] [ERROR] %c  ERR color: #f33 command 'getContext' not found @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:33
+[   79437ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ https://devant-cdn.wso2.com/20251114021829/out/vs/code/browser/workbench/workbench.js:3556
